@@ -15,3 +15,6 @@ class Calculator{
         return a/b;
     }
 }
+
+const calculator = new Calculator();
+export default calculator;
